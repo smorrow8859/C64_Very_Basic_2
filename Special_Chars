@@ -1,0 +1,15 @@
+#Special Chars
+
+1 rem special characters 1
+4 :
+10 print"S"
+12 print"["
+20 print"Xsteve morrow"
+30 print
+40 print"Yis so    cool!"
+50 print
+60 print"Vwhat color is this?"
+70 print
+80 print".green color"
+90 print
+100 print"^yellow color"
