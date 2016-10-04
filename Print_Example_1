@@ -1,0 +1,10 @@
+#Print Example 1
+
+1 rem print example 1
+4 :
+10 print"S"
+20 print "steve morrow"
+30 print
+40 print "is so    cool!"
+50 print
+
