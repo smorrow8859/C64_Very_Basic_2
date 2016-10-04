@@ -1,0 +1,20 @@
+#Tab Example 1
+
+1 rem tab example 1
+4 :
+10 print"S"
+12 print"["
+20 print"Xsteve morrow"
+30 print
+40 print"Yis so    cool!"
+50 print
+60 print"Vwhat color is this?"
+70 print
+80 print".green color"
+90 print
+100 print"^yellow color"
+110 print
+120 print tab(12)"12 spaces over"
+130 print
+140 print "spacing example"spc(2)"is sho
+wn here"
